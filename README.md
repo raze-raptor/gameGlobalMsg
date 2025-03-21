@@ -1,0 +1,2 @@
+# gameGlobalMsg
+g
